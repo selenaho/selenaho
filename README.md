@@ -10,7 +10,7 @@
 
 🛠 Tech Stack:
 
-Languages: Python, Java, C++
+Languages: Python, C++, Java
 
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 
