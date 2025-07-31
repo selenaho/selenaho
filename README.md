@@ -1,6 +1,8 @@
 ## Hi, I'm Selena! 👋
 🎓 Sophomore at Hunter College, studying Computer Science with a minor in Economics
+
 🔭 Aspiring Software Engineer, interested in exploring machine learning and product/project management
+
 😄 Pronouns: she/her
 
 🛠 Tech Stack:
